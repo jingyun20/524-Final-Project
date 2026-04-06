@@ -1,4 +1,4 @@
-# 524-Final-Project
+# Interactive Global Health Trend Explorer
 ## Pipeline Documentation
 ### Completeness
 
